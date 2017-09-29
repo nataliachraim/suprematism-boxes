@@ -1,0 +1,24 @@
+ #box1 {
+        width: 600px;
+        height: 600px;
+        background-color: #000000;
+        margin: auto;
+        width: 600px;
+        position: static}  
+
+#box2 {width: 400px;
+        height: 800px;
+        background-color: #2d2d30;
+        margin: auto;
+        width: 400px;
+        position: absolute}
+
+#box3 {width: 200px;
+        height: 200px;
+        background-color: #434347;
+        position: fixed;}
+
+#box4 {width: 100px;
+        height: 100px;
+        background-color:#1d1d1e;
+        position: relative;}
